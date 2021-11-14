@@ -2,8 +2,6 @@
 #include <time.h>
 #include <stdlib.h>
 
-// TODO Az aknák számát kérjük be parancsori paraméterként és ezt adjuk át az előző függvénynek. 
-
 const int size = 10;
 const int maxBombsNum = 30;
 const int minBombsNum = 3;
